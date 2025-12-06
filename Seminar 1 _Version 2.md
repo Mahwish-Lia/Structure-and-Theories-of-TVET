@@ -224,7 +224,7 @@ Welcome to Module 2 Seminar 1, Today is the first session of the seminar , In th
 Seminar 1: Structures and theories of Technical and Vocational
 Education and Training (4 CPs)
 
-Seminar 1 : 07-December-2025
+Session 1 : 07-December-2025
 
 Facilitator: Mr. Lutz Thelen
 
@@ -2325,5 +2325,6 @@ Klafki's categorical education argues that neither material nor formal approache
         fill="#F5FBFF">
     they foster judgement, autonomy and social responsibility.
   </text>
+
 
 </svg>
