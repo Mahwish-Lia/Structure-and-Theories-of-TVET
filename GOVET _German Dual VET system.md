@@ -93,7 +93,10 @@ code {
 
 
 # Dual VET in Germany
-> **The German Success Model for Vocational Education and Training**
+
+Link
+
+[https://www.youtube.com/watch?v=sXhSRoSFxuU]()
 
 --{{0}}--
 Welcome to this interactive presentation about the Dual Vocational Education and Training system in Germany This presentation will guide you through the basics, framework conditions, motivation, interests, processes, and success factors of Germany's renowned dual VET system.
@@ -134,7 +137,10 @@ Let's begin by understanding the fundamental concepts and structural framework t
 ╚═══════════════════════════════════════╝
 ```
 
-### 🏫 Dual VET in the German Education System
+### 🏫 Overview of Dual VET in the German Education System 
+
+
+![](https://github.com/Mahwish-Lia/Structure-and-Theories-of-TVET/blob/main/Picture1.png?raw=true)
 
 --{{0}}--
 The dual VET system is a cornerstone of the German education system. Let's take a comprehensive look at how it fits into the broader educational landscape and what makes it distinctive.
@@ -146,7 +152,7 @@ The dual VET system is a cornerstone of the German education system. Let's take 
 ### 👥 Parties Involved: Trainees
 
 --{{0}}--
-The dual VET system serves a significant portion of Germany's workforce. Here are the key statistics about trainees.
+The dual VET system serves a significant portion of Germany's workforce. Here are the key statistics about trainees.That means one in every twenty employees in Germany is currently undergoing vocational training. This demonstrates the massive scale and importance of the dual VET system.
 
 <div style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
 
@@ -188,8 +194,8 @@ The dual VET system serves a significant portion of Germany's workforce. Here ar
 
 </div>
 
---{{1}}--
-That means one in every twenty employees in Germany is currently undergoing vocational training. This demonstrates the massive scale and importance of the dual VET system.
+
+
 
 <div style="text-align: center; margin-top: 20px; padding: 15px; background: #f5f5f5; border-radius: 10px;">
 
@@ -227,7 +233,7 @@ That means one in every twenty employees in Germany is currently undergoing voca
 ### 🏢 Parties Involved: Employers
 
 --{{0}}--
-Employers play a crucial role in the dual VET system. Let's look at their participation and commitment.
+Employers play a crucial role in the dual VET system. Let's look at their participation and commitment.The high retention rate of seventy-seven percent shows that companies view dual VET not just as a social responsibility, but as a strategic investment in their workforce.
 
 <div style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
 
@@ -279,8 +285,7 @@ Employers play a crucial role in the dual VET system. Let's look at their partic
 
 </div>
 
---{{1}}--
-The high retention rate of seventy-seven percent shows that companies view dual VET not just as a social responsibility, but as a strategic investment in their workforce.
+
 
 <div style="background: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%); padding: 20px; border-radius: 10px; margin-top: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
@@ -300,7 +305,7 @@ The high retention rate of seventy-seven percent shows that companies view dual 
 ### 🤝 Framework Stakeholders
 
 --{{0}}--
-The dual VET system is a collaborative effort involving multiple stakeholders who ensure quality and relevance.
+The dual VET system is a collaborative effort involving multiple stakeholders who ensure quality and relevance.This tripartite cooperation is a hallmark of the German system, ensuring that training meets the needs of the economy while maintaining high educational standards.
 
 ``` ascii
      ┌─────────────────────────────────┐
@@ -341,15 +346,14 @@ Legal framework & resources
 
 </div>
 
---{{1}}--
-This tripartite cooperation is a hallmark of the German system, ensuring that training meets the needs of the economy while maintaining high educational standards.
+
 
 ---
 
 ### 🏛️ Stakeholders: Chambers - Competent Bodies
 
 --{{0}}--
-Chambers serve as the competent bodies overseeing company-based training. Their responsibilities include:
+Chambers serve as the competent bodies overseeing company-based training. Their responsibilities include. Think of chambers as quality assurance institutions that bridge the gap between companies and the formal education system.
 
 <div style="background-color: #f3e5f5; padding: 20px; border-radius: 10px; border-left: 5px solid #9c27b0;">
 
@@ -363,15 +367,15 @@ Chambers serve as the competent bodies overseeing company-based training. Their 
 
 </div>
 
---{{1}}--
-Think of chambers as quality assurance institutions that bridge the gap between companies and the formal education system.
+
+
 
 ---
 
 ### 👔 Stakeholders: Social Partners
 
 --{{0}}--
-Social partners represent both workers and employers in shaping VET standards.
+Social partners represent both workers and employers in shaping VET standards.This collaborative approach ensures that training regulations reflect real-world needs while protecting the interests of both trainees and employers.
 
 <div style="background-color: #fff9c4; padding: 20px; border-radius: 10px;">
 
@@ -387,15 +391,14 @@ Social partners represent both workers and employers in shaping VET standards.
 
 </div>
 
---{{1}}--
-This collaborative approach ensures that training regulations reflect real-world needs while protecting the interests of both trainees and employers.
+
 
 ---
 
 ### 🏛️ Stakeholders: The Government
 
 --{{0}}--
-The government provides the overall framework and support for the dual VET system.
+The government provides the overall framework and support for the dual VET system.The government's role is to ensure accessibility, quality, and continuous improvement of the system.
 
 <div style="background-color: #e1f5fe; padding: 20px; border-radius: 10px; border-left: 5px solid #03a9f4;">
 
@@ -409,15 +412,15 @@ The government provides the overall framework and support for the dual VET syste
 
 </div>
 
---{{1}}--
-The government's role is to ensure accessibility, quality, and continuous improvement of the system.
+
+
 
 ---
 
 ### 📏 The Framework: Standards
 
 --{{0}}--
-Standards are the backbone of quality assurance in the dual VET system.
+Standards are the backbone of quality assurance in the dual VET system.These standards ensure that training quality is maintained consistently across all of Germany.
 
 ``` ascii
 ╔═══════════════════════════════════╗
@@ -437,15 +440,15 @@ Standards are the backbone of quality assurance in the dual VET system.
 
 </div>
 
---{{1}}--
-These standards ensure that training quality is maintained consistently across all of Germany.
+
 
 ---
 
 ### ⚙️ Standards Development Process
 
 --{{0}}--
-The development of VET standards is a systematic, collaborative process.
+The development of VET standards is a systematic, collaborative process.This ensures that VET evolves with labor market needs while maintaining educational rigor.
+
 
 ``` ascii
 STEP 1              STEP 2              STEP 3
@@ -468,15 +471,13 @@ STEP 1              STEP 2              STEP 3
 
 </div>
 
---{{1}}--
-This ensures that VET evolves with labor market needs while maintaining educational rigor.
 
 ---
 
 ### 📜 Training Regulations
 
 --{{0}}--
-Training regulations follow the occupation principle and define in-company training.
+Training regulations follow the occupation principle and define in-company training.These regulations ensure that every recognized occupation has clearly defined learning outcomes and assessment criteria.
 
 <div style="background-color: #e8eaf6; padding: 20px; border-radius: 10px; border-left: 5px solid #3f51b5;">
 
@@ -492,15 +493,14 @@ Training regulations follow the occupation principle and define in-company train
 
 </div>
 
---{{1}}--
-These regulations ensure that every recognized occupation has clearly defined learning outcomes and assessment criteria.
+
 
 ---
 
 ### 📖 Framework Curriculum
 
 --{{0}}--
-The framework curriculum guides the school-based component of dual VET.
+The framework curriculum guides the school-based component of dual VET.This curriculum complements practical company training, ensuring trainees develop both theoretical understanding and practical skills.
 
 <div style="background-color: #fff3e0; padding: 20px; border-radius: 10px;">
 
@@ -516,15 +516,14 @@ The framework curriculum guides the school-based component of dual VET.
 
 </div>
 
---{{1}}--
-This curriculum complements practical company training, ensuring trainees develop both theoretical understanding and practical skills.
+
 
 ---
 
 ### ⚖️ Legal Framework
 
 --{{0}}--
-The dual VET system is embedded in a comprehensive legal framework.
+The dual VET system is embedded in a comprehensive legal framework.This extensive legal framework ensures that the rights and responsibilities of all parties are clearly defined and protected.
 
 <div style="background-color: #f1f8e9; padding: 20px; border-radius: 10px;">
 
@@ -539,8 +538,7 @@ The dual VET system is embedded in a comprehensive legal framework.
 | **⚖️ Business Laws** | • Vocational Training Act<br>• Youth Protection Law<br>• Crafts Regulation Code<br>• Collective Bargaining Law<br>• Chambers of Commerce Law<br>• Works Constitution Act |
 | **🏫 School Laws** | • Compulsory schooling<br>• Regional school laws |
 
---{{1}}--
-This extensive legal framework ensures that the rights and responsibilities of all parties are clearly defined and protected.
+
 
 ---
 
@@ -560,7 +558,7 @@ Now let's explore what motivates different stakeholders to participate in dual V
 ### 🏛️ Government Motivation
 
 --{{0}}--
-The government has strong economic and social reasons for supporting dual VET.
+The government has strong economic and social reasons for supporting dual VET.The government views dual VET as essential infrastructure for economic competitiveness and social stability.
 
 <div style="background-color: #e3f2fd; padding: 20px; border-radius: 10px; border-left: 5px solid #2196f3;">
 
@@ -574,15 +572,14 @@ The government has strong economic and social reasons for supporting dual VET.
 
 </div>
 
---{{1}}--
-The government views dual VET as essential infrastructure for economic competitiveness and social stability.
+
 
 ---
 
 ### 🎓 Young People's Motivation
 
 --{{0}}--
-For young people, dual VET offers a clear pathway to a professional career.
+For young people, dual VET offers a clear pathway to a professional career.Young people appreciate that dual VET offers immediate earning potential combined with professional qualification.
 
 <div style="background-color: #fce4ec; padding: 20px; border-radius: 10px;">
 
@@ -602,15 +599,14 @@ For young people, dual VET offers a clear pathway to a professional career.
 
 </div>
 
---{{1}}--
-Young people appreciate that dual VET offers immediate earning potential combined with professional qualification.
+
 
 ---
 
 ### 🏢 Company Motivation
 
 --{{0}}--
-Companies participate in dual VET to secure their future workforce.
+Companies participate in dual VET to secure their future workforce.For companies, dual VET is an investment that pays dividends through skilled workers who understand company culture and processes.
 
 <div style="background-color: #fff9c4; padding: 20px; border-radius: 10px; border-left: 5px solid #fbc02d;">
 
@@ -630,15 +626,14 @@ Companies participate in dual VET to secure their future workforce.
 
 </div>
 
---{{1}}--
-For companies, dual VET is an investment that pays dividends through skilled workers who understand company culture and processes.
+
 
 ---
 
 ### 📝 The Training Contract
 
 --{{0}}--
-Professional training officially begins with the training contract.
+Professional training officially begins with the training contract.This contract provides legal protection for both trainee and employer, clearly defining expectations and responsibilities.
 
 <div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px;">
 
@@ -659,15 +654,14 @@ Professional training officially begins with the training contract.
 
 </div>
 
---{{1}}--
-This contract provides legal protection for both trainee and employer, clearly defining expectations and responsibilities.
+
 
 ---
 
 ### 🔄 Dual Learning at Two Venues
 
 --{{0}}--
-The term dual refers to the two learning locations where training takes place simultaneously.
+The term dual refers to the two learning locations where training takes place simultaneously.This combination ensures trainees develop both practical competence and theoretical understanding, making them immediately productive upon completion.
 
 <div style="background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); margin: 20px 0;">
 
@@ -723,15 +717,14 @@ The term dual refers to the two learning locations where training takes place si
 
 </div>
 
---{{1}}--
-This combination ensures trainees develop both practical competence and theoretical understanding, making them immediately productive upon completion.
+
 
 ---
 
 ### 📋 The Final Examination
 
 --{{0}}--
-The training concludes with a comprehensive final examination.
+The training concludes with a comprehensive final examination.This tripartite examination board ensures fairness and comprehensiveness in assessment, reflecting the collaborative nature of the entire system.
 
 <div style="background-color: #f3e5f5; padding: 20px; border-radius: 10px;">
 
@@ -754,15 +747,14 @@ The training concludes with a comprehensive final examination.
 
 </div>
 
---{{1}}--
-This tripartite examination board ensures fairness and comprehensiveness in assessment, reflecting the collaborative nature of the entire system.
+
 
 ---
 
 ### 🎓 Vocational Certificate
 
 --{{0}}--
-Successful completion leads to official recognition.
+Successful completion leads to official recognition.The vocational certificate opens doors across Germany with a nationally recognized qualification.
 
 <div style="background-color: #fff3e0; padding: 30px; border-radius: 10px; text-align: center; border: 3px solid #ff9800;">
 
@@ -780,15 +772,15 @@ The successful examination ends training and the professional career begins.
 
 </div>
 
---{{1}}--
-The vocational certificate opens doors across Germany with a nationally recognized qualification.
+
 
 ---
 
 ### 🚀 Career Opportunities
 
 --{{0}}--
-Completing dual VET opens multiple pathways for career development.
+Completing dual VET opens multiple pathways for career development.Dual VET is not a dead end. It provides a solid foundation for lifelong learning and career advancement.
+
 
 <div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px;">
 
@@ -818,8 +810,6 @@ Completing dual VET opens multiple pathways for career development.
       └───────┘     └────────┘
 ```
 
---{{1}}--
-Dual VET is not a dead end. It provides a solid foundation for lifelong learning and career advancement.
 
 ---
 
@@ -839,7 +829,7 @@ Now let's examine why the German dual VET system is considered a success model a
 ### 📊 Summary: How Does Dual VET Work?
 
 --{{0}}--
-Let's summarize the key elements.
+Let's summarize the key elements.The dual nature combining theory and practice is the defining feature of this successful system.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
@@ -867,15 +857,14 @@ Let's summarize the key elements.
 
 </div>
 
---{{1}}--
-The dual nature combining theory and practice is the defining feature of this successful system.
+
 
 ---
 
 ### ⭐ Why is Dual VET Successful?
 
 --{{0}}--
-Multiple factors contribute to the success of Germany's dual VET system.
+Multiple factors contribute to the success of Germany's dual VET system.These factors reinforce each other, creating a robust system proven resilient over decades.
 
 <div style="background-color: #f3e5f5; padding: 20px; border-radius: 10px;">
 
@@ -893,15 +882,14 @@ Multiple factors contribute to the success of Germany's dual VET system.
 
 </div>
 
---{{1}}--
-These factors reinforce each other, creating a robust system proven resilient over decades.
+
 
 ---
 
 ### 🎯 Five Quality Features
 
 --{{0}}--
-Five cornerstones define the quality of dual VET.
+Five cornerstones define the quality of dual VET.These five features ensure the system remains relevant, effective, and responsive to changing needs.
 
 ``` ascii
         ╔═════════════════════════════╗
@@ -933,15 +921,14 @@ Five cornerstones define the quality of dual VET.
 
 </div>
 
---{{1}}--
-These five features ensure the system remains relevant, effective, and responsive to changing needs.
+
 
 ---
 
 ### 🎓 Benefits: For Trainees
 
 --{{0}}--
-Dual VET provides multiple advantages for young people.
+Dual VET provides multiple advantages for young people.Trainees earn while they learn and gain practical experience that makes them immediately valuable to employers.
 
 <div style="background-color: #e8eaf6; padding: 20px; border-radius: 10px; border-left: 5px solid #3f51b5;">
 
@@ -963,15 +950,14 @@ Dual VET provides multiple advantages for young people.
 
 </div>
 
---{{1}}--
-Trainees earn while they learn and gain practical experience that makes them immediately valuable to employers.
+
 
 ---
 
 ### 🏢 Benefits: For Companies
 
 --{{0}}--
-Companies benefit significantly from participating in dual VET.
+Companies benefit significantly from participating in dual VET.Studies show the investment typically pays for itself within the training period through productive work.
 
 <div style="background-color: #fff9c4; padding: 20px; border-radius: 10px; border-left: 5px solid #fbc02d;">
 
@@ -996,15 +982,14 @@ INVESTMENT → TRAINING → SKILLED WORKER
 
 </div>
 
---{{1}}--
-Studies show the investment typically pays for itself within the training period through productive work.
+
 
 ---
 
 ### 🏛️ Benefits: For Government & Society
 
 --{{0}}--
-The broader societal benefits are substantial.
+The broader societal benefits are substantial.Dual VET helps maintain social cohesion by providing young people with clear career pathways.
 
 <div style="background-color: #e1f5fe; padding: 20px; border-radius: 10px;">
 
@@ -1027,15 +1012,14 @@ The broader societal benefits are substantial.
 
 </div>
 
---{{1}}--
-Dual VET helps maintain social cohesion by providing young people with clear career pathways.
+
 
 ---
 
 ### ⚠️ Challenges: Trainees' Perspective
 
 --{{0}}--
-Despite success, challenges remain from the trainee perspective.
+Despite success, challenges remain from the trainee perspective.These challenges require continuous adaptation and support mechanisms to ensure all young people can access quality training.
 
 <div style="background-color: #ffebee; padding: 20px; border-radius: 10px; border-left: 5px solid #f44336;">
 
@@ -1048,15 +1032,14 @@ Despite success, challenges remain from the trainee perspective.
 
 </div>
 
---{{1}}--
-These challenges require continuous adaptation and support mechanisms to ensure all young people can access quality training.
+
 
 ---
 
 ### ⚠️ Challenges: Business Perspective
 
 --{{0}}--
-Companies also face challenges in the dual VET system.
+Companies also face challenges in the dual VET system.Demographic changes mean companies sometimes struggle to find suitable applicants, especially in certain sectors.
 
 <div style="background-color: #fff3e0; padding: 20px; border-radius: 10px; border-left: 5px solid #ff9800;">
 
@@ -1069,15 +1052,14 @@ Companies also face challenges in the dual VET system.
 
 </div>
 
---{{1}}--
-Demographic changes mean companies sometimes struggle to find suitable applicants, especially in certain sectors.
+
 
 ---
 
 ### ⚠️ Challenges: System-Level
 
 --{{0}}--
-Macro-level challenges affect the entire system.
+Macro-level challenges affect the entire system.These systemic challenges require coordinated responses from all stakeholders and continuous policy innovation.
 
 <div style="background-color: #f3e5f5; padding: 20px; border-radius: 10px; border-left: 5px solid #9c27b0;">
 
@@ -1097,15 +1079,26 @@ Macro-level challenges affect the entire system.
 
 </div>
 
---{{1}}--
-These systemic challenges require coordinated responses from all stakeholders and continuous policy innovation.
+
 
 ---
+
+##  The internationalisation of Dual VET
+
+Dual vocational education and training is a successful model in Germany and is highly regarded abroad. It is based on five features that also form the basis of GOVET's international cooperation and advisory measures of German stakeholders.
+
+* Cooperation of government and industry
+* Acceptance of national standards 
+* Qualified vocational education and training staff
+* Institutionalised research and consultancy
+* Learning within the work process
+
+[https://www.youtube.com/watch?v=SvtLqnZlC18]()
 
 ### 📚 Further Resources
 
 --{{0}}--
-For those interested in learning more, here are key resources.
+For those interested in learning more, here are key resources.These resources provide comprehensive information about all aspects of dual VET in Germany.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
@@ -1144,15 +1137,14 @@ For those interested in learning more, here are key resources.
 
 </div>
 
---{{1}}--
-These resources provide comprehensive information about all aspects of dual VET in Germany.
+
 
 ---
 
 ## 🎉 Thank You!
 
 --{{0}}--
-Thank you for exploring the German Dual VET system with us!
+Thank you for exploring the German Dual VET system with us.We hope this presentation has given you valuable insights into one of the world's most successful vocational training systems.
 
 <div style="background-color: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 15px; text-align: center; color: white;">
 
@@ -1169,8 +1161,7 @@ Thank you for exploring the German Dual VET system with us!
 
 </div>
 
---{{1}}--
-We hope this presentation has given you valuable insights into one of the world's most successful vocational training systems.
+
 
 ---
 
@@ -1296,7 +1287,7 @@ The duration varies to match the complexity of each profession!
 ## 💡 Key Takeaways
 
 --{{0}}--
-Let's review the most important points about German Dual VET.
+Let's review the most important points about German Dual VET.The German dual VET system shows that with proper design and stakeholder support, vocational education can achieve excellence. Thank you for your attention!
 
 <div style="background-color: #e8eaf6; padding: 30px; border-radius: 15px;">
 
@@ -1359,17 +1350,16 @@ Let's review the most important points about German Dual VET.
 
 </div>
 
---{{1}}--
-The German dual VET system shows that with proper design and stakeholder support, vocational education can achieve excellence. Thank you for your attention!
+
 
 ---
 
 ## 🎉 Thank You!
 
 --{{0}}--
-Thank you for exploring the German Dual VET system with us!
+Thank you for exploring the German Dual VET system with us.We hope this presentation has given you valuable insights into one of the world's most successful vocational training systems.
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 50px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 15px 40px rgba(0,0,0,0.3); margin: 30px 0;">
+
 
 <div style="font-size: 3em; margin-bottom: 20px;">🏆</div>
 
@@ -1395,7 +1385,7 @@ Thank you for exploring the German Dual VET system with us!
 
 🇩🇪 **Germany** | 🌍 **International** | 🤝 **Cooperation**
 
-</div>
+
 
 </div>
 
@@ -1433,8 +1423,7 @@ Contact us for inquiries
 
 </div>
 
---{{1}}--
-We hope this presentation has given you valuable insights into one of the world's most successful vocational training systems.
+
 
 ---
 
