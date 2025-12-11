@@ -92,11 +92,11 @@ code {
 -->
 
 
-# Dual VET in Germany
+## Dual VET in Germany
 
-Link
 
-[https://www.youtube.com/watch?v=sXhSRoSFxuU]()
+
+>Click the link to watch the YouTube video about Dual VET - Vocational Education and Training in Germany[https://www.youtube.com/watch?v=sXhSRoSFxuU]()
 
 --{{0}}--
 Welcome to this interactive presentation about the Dual Vocational Education and Training system in Germany This presentation will guide you through the basics, framework conditions, motivation, interests, processes, and success factors of Germany's renowned dual VET system.
@@ -126,7 +126,7 @@ This presentation is structured into three main sections  First, we'll explore t
 
 ---
 
-## 🎯 Part 1: Basics and Framework Conditions
+## 🎯 Block 1: Basics and Framework Conditions
 
 --{{0}}--
 Let's begin by understanding the fundamental concepts and structural framework that make the German dual VET system unique.
@@ -497,6 +497,23 @@ Training regulations follow the occupation principle and define in-company train
 
 ---
 
+## Training Regulation 
+
+ 1) How the training regulations are developed?Click the link given 👇 
+
+ >[https://www.youtube.com/watch?v=fYr3Sj12l00&list=PLcpWMACdE_JeKr2ML3edhZiIig-IzP0ek&index=28]()
+
+2)Training regulations – the framework for occupations in the dual system. Click the link given👇 
+
+ 
+ >[https://www.youtube.com/watch?v=w_eeScASKMc&list=PLcpWMACdE_JeKr2ML3edhZiIig-IzP0ek&index=32]()
+
+
+ 3) New training regulations and occupational profiles. Click the link given 👇 
+
+ >[https://www.youtube.com/watch?v=MwmwridUjgI&list=PLcpWMACdE_JeKr2ML3edhZiIig-IzP0ek&index=35]()
+
+ 
 ### 📖 Framework Curriculum
 
 --{{0}}--
@@ -542,7 +559,7 @@ The dual VET system is embedded in a comprehensive legal framework.This extensiv
 
 ---
 
-## 🎯 Part 2: Motivation, Interests and Process
+## 🎯 Block  2: Motivation, Interests and Process
 
 --{{0}}--
 Now let's explore what motivates different stakeholders to participate in dual VET and how the process actually works from start to finish.
@@ -813,7 +830,7 @@ Completing dual VET opens multiple pathways for career development.Dual VET is n
 
 ---
 
-## 🏆 Part 3: The Success Model
+## 🏆 Block 3: The Success Model
 
 --{{0}}--
 Now let's examine why the German dual VET system is considered a success model and what benefits it provides to all stakeholders.
@@ -1083,7 +1100,7 @@ Macro-level challenges affect the entire system.These systemic challenges requir
 
 ---
 
-##  The internationalisation of Dual VET
+## Block 4: The internationalisation of Dual VET
 
 Dual vocational education and training is a successful model in Germany and is highly regarded abroad. It is based on five features that also form the basis of GOVET's international cooperation and advisory measures of German stakeholders.
 
@@ -1093,7 +1110,37 @@ Dual vocational education and training is a successful model in Germany and is h
 * Institutionalised research and consultancy
 * Learning within the work process
 
-[https://www.youtube.com/watch?v=SvtLqnZlC18]()
+>"Click the link to watch the YouTube video"[https://www.youtube.com/watch?v=SvtLqnZlC18]()
+
+## Block 5: Legal framework and financing of the German dual VET system
+
+>The legal framework and the financing of the German dual vocational system is based on a long tradition and includes various parties who are involved in this framework.
+
+## Legal Framework of the dual system
+
+>The German Vocational Training Act (Berufsbildungsgesetz (BBiG)) and the German Crafts and Trades Regulation Code (Handwerksordnung (HwO)) form the legal framework for the development of the German TVET system. All parties involved act consensus-oriented according this framework. These two instruments set out fundamental standards for the company-based part of dual VET, including creation of the general conditions that apply to aspects such as vocational training and the examination system. The central element within the system is the training regulation prescribed by the BBiG/HwO. These are enacted for every state recognised training occupation by the relevant ministry responsible.
+
+>The training regulations have a central role in the Vocational Training Act. They form the framework for regulating the occupations. A training regulation regulates (article 5 paragraph 1 BBiG)
+
+## Legal Framework of the dual system
+
+* The designation of the training occupation,
+* The duration of the training – which shall be not less than two and not more than three years,
+* The description of the training occupation – the typical “skills, knowledge and capabilities” of the profession in summary form,
+* The framework training curriculum – a guide to how the teaching of skills, knowledge and capabilities is to be structured in terms of content and time,
+* The examination requirements.
+
+>These provisions describe the minimum requirements for a modern course of training. They define the standards, i.e. the currently indispensable skills, knowledge and capabilities of a qualified specialist, as well the scope of his or her practical activity in order to be able to integrate additional qualifications as well as hitherto unforeseeable future developments in education and training.
+
+>The Board of the Federal Institute for Vocational Education and Training (BIBB) is the advisory board for the central government in all issues relating to vocational education and training.
+
+## Financing of the dual system
+
+![](https://github.com/Mahwish-Lia/Structure-and-Theories-of-TVET/blob/main/Financing%20Picture.jpg?raw=true)
+
+>The system of dual vocational education and training exerts far-reaching effects in macro-economic and labour market policy terms. One example of this is the fact that a major contribution towards the financing of the system is made by the companies providing training themselves, and the resultant low level of youth unemployment means that a very small burden is placed on the social systems.
+
+>Alongside the investments made by the companies in securing a supply of up-and-coming skilled workers and in providing training to young people, other participants in the complex financing system include the public purse (the federal states, the Federal Government, the Federal Employment Agency) and the trainees themselves. The contribution made by the trainees in this regard primarily comprises lost income due to the fact that the allowance received during training is lower than payment made to an unskilled or semi-skilled worker. It is difficult to place a financial figure on this contribution.
 
 ### 📚 Further Resources
 
@@ -1284,6 +1331,114 @@ The duration varies to match the complexity of each profession!
 
 ---
 
+## BIBB Legal Framework and Financing Quiz
+
+This quiz tests your knowledge about the legal framework and financing structure of the German dual vocational education and training (VET) system, as documented by the Federal Institute for Vocational Education and Training (BIBB).
+
+  ## Question 1
+
+Which two primary legal instruments form the legal framework for the German dual VET system?
+
+[[ ]] The Federal Education Act and the Employment Protection Act
+[[X]] The Vocational Training Act (BBiG) and the Crafts and Trades Regulation Code (HwO)
+[[ ]] The Youth Labour Protection Law and the School Laws
+[[ ]] The Training Contract Act and the Chamber Regulations
+
+  ## Question 2
+
+According to Article 5 paragraph 1 of the BBiG, what is NOT a required component of training regulations?
+
+[[ ]] The designation of the training occupation
+[[ ]] The framework training curriculum
+[[X]] The minimum wage for trainees
+[[ ]] The examination requirements
+
+  ## Question 3
+
+What is the primary purpose of training regulations in the German VET system?
+
+[[ ]] To set maximum training costs for companies
+[[X]] To define minimum requirements and standards while allowing integration of additional qualifications and future developments
+[[ ]] To restrict training to only the skills currently needed in the market
+[[ ]] To ensure all companies pay the same training allowance
+
+  ## Question 4
+
+What is the permissible duration range for training occupations under the BBiG?
+
+[[ ]] One to two years
+[[X]] Not less than two and not more than three years
+[[ ]] Exactly three years for all occupations
+[[ ]] Between six months and four years
+
+  ## Question 5
+
+Who comprises the Board of the Federal Institute for Vocational Education and Training (BIBB)?
+
+[[ ]] Only federal government officials
+[[X]] Representatives of employers, trade unions, federal states, and the Federal Government, all with equal voting rights
+[[ ]] Educational experts and university professors exclusively
+[[ ]] Chamber representatives and industry leaders only
+
+  ## Question 6
+
+In the financing structure of the German dual VET system, what is the trainees' primary contribution?
+
+[[ ]] Payment of tuition fees to the vocational school
+[[X]] Lost income, as the training allowance is lower than payment to an unskilled or semi-skilled worker
+[[ ]] Direct payment to the training company
+[[ ]] Funding through student loans
+
+  ## Question 7
+
+Besides the companies providing training, which entities participate in the complex financing system?
+
+[[ ]] Only the trainees themselves
+[[X]] The public purse (federal states, Federal Government, Federal Employment Agency) and the trainees
+[[ ]] International organizations and private investors
+[[ ]] The European Union and vocational schools exclusively
+
+  ## Question 8
+
+How many state-recognized training occupations currently exist in Germany?
+
+[[ ]] Around 150
+[[ ]] Around 250
+[[X]] Around 330
+[[ ]] Around 500
+
+  ## Question 9
+
+What distinguishes membership in the skilled craft sector in Germany?
+
+[[ ]] Company size and annual turnover
+[[ ]] Number of employees
+[[X]] Determination by law through the Crafts and Trades Regulation Code
+[[ ]] Voluntary registration with local authorities
+
+ ## Question 10
+
+What makes the training regulations more than just minimum requirements?
+
+[[ ]] They are fixed and cannot be exceeded by companies
+[[X]] They define standards while allowing companies to teach additional content such as company-specific knowledge or special skills
+[[ ]] They only apply to large companies with over 50 employees
+[[ ]] They are recommendations rather than legally binding requirements
+
+---
+
+## Summary
+
+This quiz covered key aspects of:
+
+- The legal framework (BBiG and HwO)
+- Training regulations and their components
+- The BIBB Board structure
+- The financing system of dual VET
+- Training occupations and craft sector regulations
+
+For more information, visit: [BIBB Legal Framework and Financing](https://www.bibb.de/en/77214.php)
+
 ## 💡 Key Takeaways
 
 --{{0}}--
@@ -1354,14 +1509,7 @@ Let's review the most important points about German Dual VET.The German dual VET
 
 ---
 
-## 🎉 Thank You!
 
---{{0}}--
-Thank you for exploring the German Dual VET system with us.We hope this presentation has given you valuable insights into one of the world's most successful vocational training systems.
-
-
-
-<div style="font-size: 3em; margin-bottom: 20px;">🏆</div>
 
 ### **GOVET at BIBB**
 
