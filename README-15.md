@@ -3,7 +3,7 @@
 
 author:   Masub Makhdoom
 email:    masub.makhdoom@ovgu.de
-date:     20/09/2025
+date:     05/01/2026
 version:  30.0.0
 language: en
 narrator: UK English Female
@@ -302,7 +302,7 @@ Students …
 Click 👇 
 
 * [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/Mahwish-Lia/Structure-and-Theories-of-TVET/main/Seminar%201%20_Version%202.md#1)
-* [LOOPY](https://idp-serv.uni-magdeburg.de/idp/profile/SAML2/Redirect/SSO?execution=e1s2)
+* [LOOPY](https://ncase.me/loopy/)
 * [MIRO](https://miro.com/de/)
 
 ---
