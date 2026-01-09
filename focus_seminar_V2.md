@@ -274,14 +274,13 @@ Students …
 # Dates and topics
 
 
-
 | Date       | Topic |
 |------------|-------|
-| 2026-01-10 | Welcoming, Introduction, Ind 5.0 and VET 6.0, Project types and kick-off meeting (6h) |
-| 2026-01-11 | (6h) |
-| 2026-01-17 | (6h) |
-| 2026-01-18 | (6h) |
-| 2026-01-24 | Applications for the final thesis<br>Students Presentations (4h) |
+| 2026-01-10 | Welcoming, Introduction & Briefing (6h) |
+| 2026-01-11 | Analyzing Current VET Limitations & Envisioning VET 6.0 (6h) |
+| 2026-01-17 | Idea Generation & Prototyping (6h) |
+| 2026-01-18 | Prototyping & Development (6h) |
+| 2026-01-24 | Final Presentation (4h) |
 
 
 ---
